@@ -1,0 +1,18 @@
+{
+  "name": "bigboardz",
+  "version": "0.1.0",
+  "description": "Football bboardz on the blockchain",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bigboardz",
+  "license": "MIT",
+  "dependencies": {
+    "@chainlink/contracts": "^0.3.0",
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
